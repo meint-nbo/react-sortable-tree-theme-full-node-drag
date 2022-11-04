@@ -50,8 +50,8 @@
     "react-virtualized": "^9.13.0"
   },
   "peerDependencies": {
-    "react": "^15.3.0 || ^16.0.0",
-    "react-dom": "^15.3.0 || ^16.0.0",
+    "react": "^15.3.0 || ^16.0.0 || ^17.0.0 || ^18.0.0",
+    "react-dom": "^15.3.0 || ^16.0.0 || ^17.0.0 || ^18.0.0",
     "react-sortable-tree": "^1.4.0"
   },
   "devDependencies": {
